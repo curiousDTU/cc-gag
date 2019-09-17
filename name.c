@@ -39,6 +39,7 @@ printf("Hardik Gulati,1/19/FET/BCS/228");
 printf("Name-Shivansh,Rollno-127(Cloud computing)");
 printf("Gunika,rll no.-125");
 printf("Kanika Khatri \n Roll no-138")
+printf("Name:Lakshika Bansal,Roll No.:1/19/FET/BCS/195");
 return 0;
 }
        
