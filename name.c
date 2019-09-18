@@ -28,7 +28,7 @@ printf("rahul chawla\n roll no-173");
 printf("yogesh vats\n Roll no-151");
 printf("unnati tyagi\n Roll no-155");
 printf("rahul chawla \n roll no. 173");
-printf("mohit kumar \n roll number -135);
+printf("mohit kumar \n roll number -135");
 printf("name-zakir roll no-150");
 printf("SAPNA KUSHWAHA \n 1/19/FET/BCS/229");
 printf("Sahitya diwakar\n roll no 230");
@@ -38,7 +38,8 @@ printf("Kanika Rajput \n Roll no-219");
 printf("Hardik Gulati,1/19/FET/BCS/228");       
 printf("Name-Shivansh,Rollno-127(Cloud computing)");
 printf("Gunika,rll no.-125");
-printf("Kanika Khatri \n Roll no-138")
+printf("Kanika Khatri \n Roll no-138");
+printf("Name:Kushagra Jha,Roll No.: 1/19/FET/BCS/245");
 return 0;
 }
        
