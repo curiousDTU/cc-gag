@@ -34,11 +34,12 @@ printf("SAPNA KUSHWAHA \n 1/19/FET/BCS/229");
 printf("Sahitya diwakar\n roll no 230");
 printf("Chansi pal,1/19/FET/BCS/226");
 printf("Shivani Singh,1/19/FET/BCS/168");
-printf("Kanika Rajput \n Roll no-219");       
-printf("Hardik Gulati,1/19/FET/BCS/228");       
+printf("Kanika Rajput \n Roll no-219");
+printf("Hardik Gulati,1/19/FET/BCS/228");
 printf("Name-Shivansh,Rollno-127(Cloud computing)");
 printf("Gunika,rll no.-125");
-printf("Kanika Khatri \n Roll no-138")
+printf("Kanika Khatri \n Roll no-138");
+printf("Inshita Bamba\n1/19/FET/BCS/110");
 return 0;
 }
-       
+
